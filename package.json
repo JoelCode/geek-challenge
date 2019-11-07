@@ -1,0 +1,16 @@
+{
+  "name": "geektastic",
+  "description": "Challenge",
+  "version": "0.0.1",
+  "author": "Joel Turcotte Gaucher",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoelCode/coinsy-framework.git"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "sinon": "^7.3.1",
+    "util": "^0.11.1"
+  }
+}
