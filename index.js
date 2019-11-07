@@ -3,9 +3,8 @@
 class Api {
 
   hello() {
-    return 'hey'
+    return 'hey';
   }
 }
-
 
 module.exports = {Api};
